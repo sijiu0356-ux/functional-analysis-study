@@ -1,7 +1,7 @@
-# Functional Analysis Study
+# 泛函分析复习
 
-27 assigned problems and 27 original practice variants, with detailed Chinese solutions and expandable theorem cards.
+Conway 第二版第一至四章：27道作业详解、27道同类练习、可展开的定理与应用卡片，以及三份 PDF。
 
-Sources: user-supplied Conway second edition; no original textbook PDF is included.
+网页入口：https://sijiu0356-ux.github.io/functional-analysis-study/
 
-Publish with GitHub Pages from main branch / (root).
+不包含教材原文件。
